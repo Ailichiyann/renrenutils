@@ -11,4 +11,5 @@ public class Test {
     String age;
     Integer id;
     String ii;
+    String i2;
 }
