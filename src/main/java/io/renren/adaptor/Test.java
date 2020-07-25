@@ -8,7 +8,7 @@ package io.renren.adaptor;
  **/
 public class Test {
     String na111111me;
-    String age;
+    String ag4444e;
     Integer id;
     String ii;
     String i2wwddd3333111;
