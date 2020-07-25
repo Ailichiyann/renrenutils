@@ -9,7 +9,7 @@ package io.renren.adaptor;
 public class Test {
     String na111111me;
     String ag4444e;
-    Integer id;
-    String ii;
+    Integer idddd;
+    String iidddd;
     String i2wwddd3333111;
 }
