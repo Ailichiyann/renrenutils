@@ -129,9 +129,6 @@
 		</dependency>
 	</dependencies>
 
-
-
-
 	<build>
 		<finalName>renrenutil</finalName>
 		<plugins>
