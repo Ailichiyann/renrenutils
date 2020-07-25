@@ -9,4 +9,5 @@ package io.renren.adaptor;
 public class Test {
     String name;
     String age;
+    Integer id;
 }
