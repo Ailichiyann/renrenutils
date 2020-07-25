@@ -7,7 +7,7 @@ package io.renren.adaptor;
  * @Since 2020/7/25
  **/
 public class Test {
-    String name;
+    String na11me;
     String age;
     Integer id;
     String ii;
